@@ -1,0 +1,6 @@
+-   id: yesqa_setup
+    name: Check setup.cfg per-file-ignores
+    description: Check setup.cfg per-file-ignores
+    entry: yesqa_setup
+    language: python
+    types: [python]
