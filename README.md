@@ -13,7 +13,7 @@ See [pre-commit](https://github.com/pre-commit/pre-commit) for instructions
 Sample `.pre-commit-config.yaml`:
 
 ```yaml
--   repo: https://github.com/falamers/yesqa
+-   repo: https://github.com/lamersfa/yesqa_setup
     rev: v0.0.1
     hooks:
     -   id: yesqa_setup
